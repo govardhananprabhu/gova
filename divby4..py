@@ -1,5 +1,7 @@
 n=int(input())
-if(n%4==0):
-              print("yes")
-else:
-              print("no")
+if(n>0):
+              if(n/4>o):
+                            print("yes")
+              else:
+                            print("no")
+                            
